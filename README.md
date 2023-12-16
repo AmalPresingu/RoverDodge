@@ -1,2 +1,2 @@
 # RoverDodge
-Top-down dodging game with unpredictable rocks
+Top-down dodging game with unpredictable rocks.
